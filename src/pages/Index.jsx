@@ -30,7 +30,7 @@ const Index = () => {
     <div className="min-h-screen bg-gray-100">
       <header className="bg-white shadow">
         <div className="container mx-auto px-4 py-6 flex justify-between items-center">
-          <img src="/logo.png" alt="HiRight24 Oy Logo" className="h-12" />
+          <img src="/new-logo.png" alt="HiRight24 Oy Logo" className="h-12" />
           <nav>
             <ul className="flex space-x-4">
               <li>
